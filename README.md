@@ -8,9 +8,6 @@
 Fabric is a modular, lightweight mod loader for Minecraft :
 on your Android and [iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) devices.
 
-## Important Notes
-
-**PojavLauncher has been discontinued** and is no longer supported. Its successor is available [here](https://github.com/AngelAuraMC/Amethyst-Android).
 
 ## Table of Contents
 
