@@ -11,6 +11,7 @@ on your Android and [iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS
 Most **Mods** will also require you to install 
 [Fabric API](https://test) into the mods folder.
 
+<h1 align="center"></h1>
 
 ## Table of Contents
 
