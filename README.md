@@ -1,8 +1,8 @@
 <h1 align="center">Fabric : MCPE</h1>
 
-<img src="https://raw.githubusercontent.com/mizu-dump/mz-fabricmc.github.io/refs/heads/main/images/qt87ws.webp" align="left" width="130" height="150" alt="PojavLauncher logo">
+<img src="https://raw.githubusercontent.com/mizu-dump/Fabric/refs/heads/main/images/qt87ws.webp" align="left" width="130" height="150" alt="PojavLauncher logo">
 
-[![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/PojavLauncherTeam/PojavLauncher)](https://github.com/mizu-dump/mz-fabricmc.github.io/actions)
+[![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/PojavLauncherTeam/PojavLauncher)](https://github.com/mizu-dump/Fabric/actions)
 [![Discord](https://img.shields.io/discord/724163890803638273.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/invite/8mmp5cKfdd)
 
 Fabric is a modular, lightweight mod loader for Minecraft
@@ -36,8 +36,8 @@ Most **Mods** will also require you to install
 
 You can get **Fabric** via three methods:
 
-1. **Releases:** Download the prebuilt app from our [stable releases](https://github.com/PojavLauncherTeam/PojavLauncher/releases) or [automatic builds](https://github.com/PojavLauncherTeam/PojavLauncher/actions).
-2. **Google Play:** Get it from Google Play by clicking on this badge: [![Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=net.kdt.pojavlaunch)
+1. **Releases:** Download the prebuilt app from our [stable releases](https://github.com/mizu-dump/Fabric/releases) or [automatic builds](https://github.com/mizu-dump/Fabric/actions).
+2. **Google Play:** Get it from Google Play by clicking on this badge: [![Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=net.kdt.fabric)
 3. **Official:** Get it from Official Fabric for PC/MacOS [Official Fabric](https://fabricmc.net/)
 
 
@@ -60,7 +60,7 @@ You can get **Fabric** via three methods:
 
 ## Known Issues
 
-See our [Issue Tracker](https://github.com/mizu-dump/mz-fabricmc.github.io/issues) for a list of known issues and their current status.
+See our [Issue Tracker](https://github.com/mizu-dump/Fabric/issues) for a list of known issues and their current status.
 
 ## FAQ
 
@@ -105,4 +105,4 @@ Future plans include:
 * Improving stability and performance.
 * Enhancing the mod installation experience.
 
-We welcome community feedback and suggestions for our roadmap.  Please feel free to open a feature request in our [issue tracker](https://github.com/mizu-dump/mz-fabricmc.github.io/issues).
+We welcome community feedback and suggestions for our roadmap.  Please feel free to open a feature request in our [Issue Tracker](https://github.com/mizu-dump/Fabric/issues).
