@@ -28,10 +28,10 @@ Most **Mods** will also require you to install
 
 ## Introduction
 
-* Fabric is a Minecraft: Java Edition launcher for Android and iOS based on [Boardwalk](https://github.com/zhuowei/Boardwalk)
+* Fabric is a Minecraft: Java Edition launcher for PC and MacOS based on [Fabric](https://fabricmc.net/)
 * This launcher can launch almost all available Minecraft versions ranging from rd-132211 to 1.21 snapshots (including Combat Test versions)
-* Modding via Forge and Fabric are also supported.
-* This repository contains source code for Android. For iOS/iPadOS, check out [PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS).
+* Modding via **Forge** and **Optifine** are also supported.
+* This repository contains source code for Android. check out [Fabric Android](https://github.com/PojavLauncherTeam/PojavLauncher_iOS).
 
 ## Getting Fabric : MCPE
 
@@ -39,7 +39,7 @@ You can get **Fabric** via three methods:
 
 1. **Releases:** Download the prebuilt app from our [stable releases](https://github.com/PojavLauncherTeam/PojavLauncher/releases) or [automatic builds](https://github.com/PojavLauncherTeam/PojavLauncher/actions).
 2. **Google Play:** Get it from Google Play by clicking on this badge: [![Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=net.kdt.pojavlaunch)
-3. **Official:** Get it from Official Fabric for PC/MacOS
+3. **Official:** Get it from Official Fabric for PC/MacOS [Official Fabric](https://fabricmc.net/)
 
 
 ## Current Status
@@ -75,7 +75,7 @@ Any code change should be submitted as a pull request. The description should ex
 
 ## Support
 
-For support, please join our [Discord server](https://discord.com/invite/aenk3EUvER).
+For support, please join our [Discord server](https://discord.com/invite/8mmp5cKfdd).
 
 ## License
 
@@ -83,7 +83,6 @@ PojavLauncher is licensed under [GNU LGPLv3](https://github.com/PojavLauncherTea
 
 ## Credits & Dependencies
 
-* [Boardwalk](https://github.com/zhuowei/Boardwalk) (JVM Launcher): Unknown License/[Apache License 2.0](https://github.com/zhuowei/Boardwalk/blob/master/LICENSE) or GNU GPLv2.
 * Android Support Libraries: [Apache License 2.0](https://android.googlesource.com/platform/prebuilts/maven_repo/android/+/master/NOTICE.txt).
 * [GL4ES](https://github.com/PojavLauncherTeam/gl4es): [MIT License](https://github.com/ptitSeb/gl4es/blob/master/LICENSE).
 * [OpenJDK](https://github.com/PojavLauncherTeam/openjdk-multiarch-jdk8u): [GNU GPLv2 License](https://openjdk.java.net/legal/gplv2+ce.html).
@@ -107,4 +106,4 @@ Future plans include:
 * Improving stability and performance.
 * Enhancing the mod installation experience.
 
-We welcome community feedback and suggestions for our roadmap.  Please feel free to open a feature request in our [issue tracker](https://github.com/PojavLauncherTeam/PojavLauncher/issues).
+We welcome community feedback and suggestions for our roadmap.  Please feel free to open a feature request in our [issue tracker](https://github.com/mizu-dump/mz-fabricmc.github.io/issues).
