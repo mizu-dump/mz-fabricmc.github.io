@@ -1,6 +1,6 @@
-<h1 align="center">PojavLauncher</h1>
+<h1 align="center">Fabric</h1>
 
-<img src="https://github.com/PojavLauncherTeam/PojavLauncher/blob/v3_openjdk/app_pojavlauncher/src/main/assets/pojavlauncher.png" align="left" width="130" height="150" alt="PojavLauncher logo">
+<img src="https://raw.githubusercontent.com/mizu-dump/mz-fabricmc.github.io/refs/heads/main/images/qt87ws.webp" align="left" width="130" height="150" alt="PojavLauncher logo">
 
 [![Android CI](https://github.com/PojavLauncherTeam/PojavLauncher/workflows/Android%20CI/badge.svg)](https://github.com/PojavLauncherTeam/PojavLauncher/actions)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/PojavLauncherTeam/PojavLauncher)](https://github.com/PojavLauncherTeam/PojavLauncher/actions)
