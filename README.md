@@ -44,9 +44,9 @@ You can get **Fabric** via three methods:
 
 ## Current Status
 
-* [x] OpenJDK 8 Mobile port: ARM32, ARM64, x86, x86_64
-* [x] OpenJDK 17 Mobile port: ARM32, ARM64, x86, x86_64
-* [x] OpenJDK 21 Mobile port: ARM32, ARM64, x86, x86_64
+* [x] OpenJDK 8 Mobile port: ARM32, x86, x86_64 (arm64 will release soon...)
+* [x] OpenJDK 17 Mobile port: ARM32, x86, x86_64 (arm64 will release soon...)
+* [x] OpenJDK 21 Mobile port: ARM32, x86, x86_64 (arm64 will release soon...)
 * [x] Headless mod installer
 * [x] Mod installer with GUI
 * [x] OpenGL in OpenJDK environment
@@ -61,11 +61,11 @@ You can get **Fabric** via three methods:
 
 ## Known Issues
 
-See our [issue tracker](https://github.com/PojavLauncherTeam/PojavLauncher/issues) for a list of known issues and their current status.
+See our [Issue Tracker](https://github.com/mizu-dump/mz-fabricmc.github.io/issues) for a list of known issues and their current status.
 
 ## FAQ
 
-See our [wiki](https://pojavlauncherteam.github.io/) for more information.
+See our [WIKI](https://pojavlauncherteam.github.io/) for more information.
 
 ## Contributing
 
